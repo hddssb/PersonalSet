@@ -1,0 +1,20 @@
+~/.vimrc
+set number
+set encoding=utf-8
+set shiftwidth=4
+set cindent
+set ambiwidth=double
+
+~/.bashrc
+export PS1="\[\e[31m\]\u \[\e[36m\]$:\[\e[m\]"
+export compile make
+export compile gdb
+export compile gcc
+export PATH=$PATH:/opt/arm-2009q3/bin:/home/hu/android-ndk-r10e:/home/hu/and    roid-ndk-r9d
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:./
+
+tools:
+Gnome-session-fallback ,gitk,vim ,system-config-samba
+
+source:
+download_resource:163.com

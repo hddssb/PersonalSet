@@ -18,3 +18,4 @@ Gnome-session-fallback ,gitk,vim ,system-config-samba
 
 source:
 download_resource:163.com
+mirros.aliyun.com

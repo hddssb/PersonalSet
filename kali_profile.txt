@@ -1,0 +1,5 @@
+#source 
+deb http://mirrors.aliyun.com/kali sana main non-free contrib 
+deb http://mirrors.aliyun.com/kali-security/ sana/updates main contrib non-f    ree 
+deb-src http://mirrors.aliyun.com/kali-security/ sana/updates main contrib n    on-free 
+
